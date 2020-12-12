@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # <img src="https://media.giphy.com/media/KEexxjxK16lBoE162o/giphy.gif" width="25px"> Xin chào <img src="https://media.giphy.com/media/KEexxjxK16lBoE162o/giphy.gif" width="25px">
 
-:house: Welcome to my Github profle. I am Thang Huu Vu, a simple-minded software engineer.
+:house: Welcome to my Github profile. I am Thang Huu Vu, a simple-minded software engineer.
 
 🤙 Reach me at:
 [![Linkedin Badge](https://img.shields.io/badge/-thanghuuvu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thanghuuvu/)](https://www.linkedin.com/in/thanghuuvu/)
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
 
 
-## 🛠 My toolbelts
+## 🛠 My tool belts
 
 - 🗣 Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux)
 ![Webpack](https://img.shields.io/badge/-Webpack-white?style=flat-square&logo=webpack)
+![Cordova](https://img.shields.io/badge/-Cordova-black?style=flat-square&logo=apache)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 
 - 🎛 Server:
