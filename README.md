@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # <img src="https://media.giphy.com/media/KEexxjxK16lBoE162o/giphy.gif" width="25px"> Xin chào <img src="https://media.giphy.com/media/KEexxjxK16lBoE162o/giphy.gif" width="25px">
 
-:house: Welcome to my Github profile. I am Thang Huu Vu, a simple-minded software engineer.
+:house: Welcome to my Github profile. I am Thang Huu Vu software engineer, open source advocate, computer hobbyist.
 
 🤙 Reach me at:
 [![Linkedin Badge](https://img.shields.io/badge/-thanghuuvu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thanghuuvu/)](https://www.linkedin.com/in/thanghuuvu/)
