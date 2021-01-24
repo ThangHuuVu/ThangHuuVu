@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 
 # <img src="https://media.giphy.com/media/KEexxjxK16lBoE162o/giphy.gif" width="25px"> Xin chào <img src="https://media.giphy.com/media/KEexxjxK16lBoE162o/giphy.gif" width="25px">
 
-:house: Welcome to my Github profile. I am Thang Huu Vu software engineer, open source advocate, computer hobbyist.
+:house: Welcome to my Github profile. I am Thang Huu Vu, Vietnamese software engineer experienced in open-source technologies for web development (mostly frontend). Interested in community-oriented projects and innovation.
+
+My ideal work environment includes:
+- Balance between teamwork and self-work 
+- Focus on the outcome & delivery
+- Constant improvement
+- Punctual adaptation with bleeding-edge technologies
+- Working remotely is nice to have.
 
 🤙 Reach me at:
 [![Linkedin Badge](https://img.shields.io/badge/-thanghuuvu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thanghuuvu/)](https://www.linkedin.com/in/thanghuuvu/)
