@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 [![Hey Badge](https://img.shields.io/badge/-thvu@hey.com-black?style=flat-square&logo=Hey&logoColor=white&link=mailto:thvu@hey.com)](mailto:thvu@hey.com)
 
 <a href="https://github.com/ThangHuuVu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThangHuuVu&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThangHuuVu&show_icons=true&count_private=true" />
 </a>
