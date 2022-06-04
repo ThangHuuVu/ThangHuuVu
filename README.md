@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <img src="https://media.giphy.com/media/KEexxjxK16lBoE162o/giphy.gif" width="25px"> Xin chào <img src="https://media.giphy.com/media/KEexxjxK16lBoE162o/giphy.gif" width="25px">
+# Xin chào 👋
 
 :house: Welcome to my Github profile. My name is Thang Huu Vu, a Vietnamese software developer. You can 🤙 reach me at:
-[![Linkedin Badge](https://img.shields.io/badge/-thanghuuvu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thanghuuvu/)](https://www.linkedin.com/in/thanghuuvu/)
 [![Hey Badge](https://img.shields.io/badge/-thvu@hey.com-black?style=flat-square&logo=Hey&logoColor=white&link=mailto:thvu@hey.com)](mailto:thvu@hey.com)
 
 <a href="https://github.com/ThangHuuVu">
