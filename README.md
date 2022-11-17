@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 # Xin chào 👋
 
-:house: Welcome to my Github profile. My name is Thang Huu Vu, a Vietnamese software developer. You can 🤙 reach me at:
-[![Hey Badge](https://img.shields.io/badge/-thvu@hey.com-black?style=flat-square&logo=Hey&logoColor=white&link=mailto:thvu@hey.com)](mailto:thvu@hey.com)
-
+:house: Welcome to my Github profile. My name is Thang Huu Vu, a Vietnamese software developer. You can 🤙 reach me at: hi@thvu.dev
 <a href="https://github.com/ThangHuuVu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThangHuuVu&show_icons=true&count_private=true" />
 </a>
