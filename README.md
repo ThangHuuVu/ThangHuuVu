@@ -2,9 +2,9 @@
 # Xin chào 👋
 
 :house: Welcome to my Github profile.
-- 💼 My day-to-day job is developing frontend software for a fintech company
-- 🔭 I’m currently on the core team & help maintaining [Auth.js](https://authjs.dev/)
-- 📫 You can reach me at `hi@thvu.dev`
+- 💼 My day-to-day job is shipping frontend software for a fintech company.
+- 🔭 I’m currently on the core team & help maintaining [Auth.js](https://authjs.dev/).
+- 📫 You can reach me at `hi@thvu.dev`.
 
 
 <!--
